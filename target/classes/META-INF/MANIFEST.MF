@@ -1,0 +1,6 @@
+Manifest-Version: 1.0
+Build-Jdk-Spec: 17
+Implementation-Title: springboot-firestoredb-todo
+Implementation-Version: 1.0.3
+Created-By: Maven Integration for Eclipse
+
