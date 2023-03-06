@@ -21,3 +21,18 @@
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
+
+target/
+.classpath
+setenv.bat
+.factorypath
+.settings/org.eclipse.jdt.core.prefs
+target/classes/application.properties
+target/classes/firebase-service-account.json
+target/classes/META-INF/maven/hk.pipgamestudio/springboot-firestoredb-todo/pom.properties
+target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst
+target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst
+target/surefire-reports/hk.pipgamestudio.todo.SpringbootFirestoredbTodoApplicationTests.txt
+target/surefire-reports/TEST-hk.pipgamestudio.todo.SpringbootFirestoredbTodoApplicationTests.xml
+target/classes/META-INF/maven/hk.pipgamestudio/springboot-firestoredb-todo/pom.properties
+.factorypath
